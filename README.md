@@ -41,7 +41,7 @@ These findings describe the records analyzed in the notebook; they should not au
 ## Project Files
 
 * `Task01.ipynb` — notebook containing the data analysis and visualizations.
-* `Task01\_Report.pdf` — project report.
+* `Task01_Report.pdf` — project report.
 
 ## How to Run
 
