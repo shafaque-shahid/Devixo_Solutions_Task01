@@ -33,7 +33,7 @@ The notebook uses the dataset provided by Kaggle. When running it in Google Cola
 * **Most frequently recorded category:** Mobiles \& Tablets (115,710 records).
 * **Most common payment method:** Cash on Delivery (COD), approximately 46.53% of records.
 * **Average item price:** approximately 6,348.75; the median was 899.
-* **Most frequently recorded status:** `complete` (233,685 records).
+* **Most frequently recorded status:** complete (233,685 records).
 * **Peak month by number of records:** November 2017 (83,928 records).
 
 These findings describe the records analyzed in the notebook; they should not automatically be interpreted as unique orders or completed sales.
